@@ -1,0 +1,7 @@
+Ingrese un numero mayor a cero: 3867
+El numero es: Impar
+
+=====================================
+
+Ingrese un numero mayor a cero: 126
+El numero es: Par
